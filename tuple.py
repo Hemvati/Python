@@ -1,0 +1,5 @@
+tup=(1,2,"Abc")
+l1=list(tup)
+print(l1)
+l1.remove(1)
+print(l1)
